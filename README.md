@@ -50,8 +50,8 @@
         </td>
         <td width="50%">
           <h3 align="center" dir="auto">Music Contact</h3>
-          <p dir="auto"><img src=""></p>
-          <p dir="auto">"Music-Contact", proyecto para poner en contacto músicos que busquen grupo de música • Express.js | 
+          <p align="center" dir="auto"><img src="https://github.com/physiodevapp/physiodevapp/blob/main/Music-Contact.png?raw=true"></p>
+          <p align="center" dir="auto">"Music-Contact", proyecto para poner en contacto músicos que busquen grupo de música • Express.js | 
  Handlerbars | Node.js | Postman | Javascript | CSS | HTML • Despliegue con Docker</p>
         </td>
        </tr>
