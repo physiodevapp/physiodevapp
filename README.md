@@ -5,7 +5,7 @@
 
 <h2></<h2>
 
-<h2>About me</h2>
+<h2>🔎About me</h2>
 <ul>
   <li> 📱 Passionate about mobile apps</li>
   <li> 💻 Full-Stack Web Developer </li>
