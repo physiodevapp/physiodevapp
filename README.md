@@ -46,12 +46,20 @@
       <tr>
         <td width="50%">
           <h3 align="center" dir="auto">Tetris</h3>
-          <p align="center" dir="auto"><img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true"></p>
+          <p align="center" dir="auto">
+            <a href="https://physiodevapp.github.io/tetris/">
+              <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true">
+            </a>
+          </p>
           <p align="center" dir="auto">Tetris, juego de arcade • Javascript | CSS | HTML • Programación orientada a objetos</p>
         </td>
         <td width="50%">
           <h3 align="center" dir="auto">Music Contact</h3>
-          <p align="center" dir="auto"><img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true"></p>
+          <p align="center" dir="auto">
+            <a href="https://music-contact.fly.dev/artists?sort=desc">
+              <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true">
+            </a>
+          </p>
           <p align="center" dir="auto">"Music-Contact", para poner en contacto músicos que busquen grupo de música • MERN Stack • Despliegue con Docker</p>
         </td>
        </tr>
