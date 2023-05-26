@@ -47,28 +47,31 @@
       <tr>
         <td width="50%">
           <h3 align="center" dir="auto">Tetris</h3>
+          <a href="https://physiodevapp.github.io/tetris/">
+            <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true">
+           </a>
           <p align="center" dir="auto">
-            <a href="https://physiodevapp.github.io/tetris/">
-              <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true">
-            </a>
+            <img style="height:40px;" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Javascript%20tag.png?raw=true">
           </p>
           <p align="center" dir="auto">Tetris, arcade game • Javascript | CSS | HTML • Object Oriented Programming</p>
         </td>
         <td width="50%">
           <h3 align="center" dir="auto">Music Contact</h3>
+          <a href="https://music-contact.fly.dev/artists?sort=desc">
+            <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true">
+          </a>
           <p align="center" dir="auto">
-            <a href="https://music-contact.fly.dev/artists?sort=desc">
-              <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true">
-            </a>
+            <img style="height:40px;" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Backend%20tag.png?raw=true">
           </p>
           <p align="center" dir="auto">Connecting musicians looking for a music group • MERN Stack • Deployed with docker</p>
         </td>
        </tr>
     </tbody>
   </table>
-  
+
+<!---
 <h2>⚙️ Codewars scoring</h2>
-  
+--->
 
 <!---
 physiodevapp/physiodevapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
