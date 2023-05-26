@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Edu Gamboa 👋</h1>
+  <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Coding.png?raw=true">
 </div>
 
 <h2></<h2>
@@ -13,7 +14,7 @@
 
 <h2>Skills</h2>
 <div align="center" dir="auto">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: transparent;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img style="height:50px;color:transparent;" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" alt="Alt text" title="Javascript">
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML">
