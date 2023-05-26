@@ -3,8 +3,6 @@
   <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Coding.png?raw=true">
 </div>
 
-<h2></<h2>
-
 <h2>🔎About me</h2>
 <ul>
   <li> 📱 Passionate about mobile apps</li>
