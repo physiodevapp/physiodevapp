@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Hola, soy Edu Gamboa 👋</h1>
+  <h1>Hi, I'm Edu Gamboa 👋</h1>
 </div>
 
 <h2></<h2>
 
-<h2>Sobre mí</h2>
+<h2>About me</h2>
 <ul>
-  <li> 📱 Apasionado de las aplicaciones móviles </li>
-  <li> 💻 Soy Desarrollador Web Full Stack </li>
-  <li> 💞️ Mi vocación por aprender, educar y ayudar a las personas se vuelca ahora en mi pasión y compromiso incansables por innovar mediante el desarrollo web </li>
+  <li> 📱 Passionate about mobile apps</li>
+  <li> 💻 Full-Stack Web Developer </li>
+  <li> 💞️ My vocation to learn, educate and help people is now turned into my passion and tireless commitment to innovate through web development </li>
 </ul>
 
-<h2>Aptitudes</h2>
+<h2>Skills</h2>
 <div align="center" dir="auto">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: transparent;">
   <img style="height:50px;color:transparent;" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" alt="Alt text" title="Javascript">
@@ -40,7 +40,7 @@
 <a href="">
 </div>
   	
-<h2>💡 Mejores proyectos</h2>
+<h2>💡 Best projects</h2>
   <table>
     <tbody>
       <tr>
@@ -51,7 +51,7 @@
               <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true">
             </a>
           </p>
-          <p align="center" dir="auto">Tetris, juego de arcade • Javascript | CSS | HTML • Programación orientada a objetos</p>
+          <p align="center" dir="auto">Tetris, arcade game • Javascript | CSS | HTML • Object Oriented Programming</p>
         </td>
         <td width="50%">
           <h3 align="center" dir="auto">Music Contact</h3>
@@ -60,13 +60,13 @@
               <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true">
             </a>
           </p>
-          <p align="center" dir="auto">"Music-Contact", para poner en contacto músicos que busquen grupo de música • MERN Stack • Despliegue con Docker</p>
+          <p align="center" dir="auto">Connecting musicians looking for a music group • MERN Stack • Deployed with docker</p>
         </td>
        </tr>
     </tbody>
   </table>
   
-<h2>⚙️ Puntuación en Codewars</h2>
+<h2>⚙️ Codewars scoring</h2>
   
 
 <!---
