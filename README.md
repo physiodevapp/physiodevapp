@@ -46,13 +46,13 @@
       <tr>
         <td width="50%">
           <h3 align="center" dir="auto">Tetris</h3>
-          <p dir="auto">Tetris, juego de arcade • Javascript | CSS | HTML • Programación orientada a objetos</p>
+          <p align="center" dir="auto"><img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true"></p>
+          <p align="center" dir="auto">Tetris, juego de arcade • Javascript | CSS | HTML • Programación orientada a objetos</p>
         </td>
         <td width="50%">
           <h3 align="center" dir="auto">Music Contact</h3>
-          <p align="center" dir="auto"><img src="https://github.com/physiodevapp/physiodevapp/blob/main/Music-Contact.png?raw=true"></p>
-          <p align="center" dir="auto">"Music-Contact", proyecto para poner en contacto músicos que busquen grupo de música • Express.js | 
- Handlerbars | Node.js | Postman | Javascript | CSS | HTML • Despliegue con Docker</p>
+          <p align="center" dir="auto"><img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true"></p>
+          <p align="center" dir="auto">"Music-Contact", para poner en contacto músicos que busquen grupo de música • MERN Stack • Despliegue con Docker</p>
         </td>
        </tr>
     </tbody>
