@@ -51,7 +51,9 @@
             <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20tetris%20readme.png?raw=true">
            </a>
           <p align="center" dir="auto">
-            <img style="height:40px;" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Javascript%20tag.png?raw=true">
+            <a href="https://github.com/physiodevapp/tetris">
+              <img style="height:40px;" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Javascript%20tag.png?raw=true">
+            </a>
           </p>
           <p align="center" dir="auto">Tetris, arcade game • Javascript | CSS | HTML • Object Oriented Programming</p>
         </td>
