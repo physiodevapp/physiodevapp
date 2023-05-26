@@ -12,7 +12,7 @@
   <li> 💞️ My vocation to learn, educate and help people is now turned into my passion and tireless commitment to innovate through web development </li>
 </ul>
 
-<h2>Skills</h2>
+<h2>⌨️ Skills</h2>
 <div align="center" dir="auto">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img style="height:50px;color:transparent;" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" alt="Alt text" title="Javascript">
