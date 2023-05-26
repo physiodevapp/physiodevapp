@@ -6,7 +6,7 @@
 
 <h2>Sobre mí</h2>
 <ul>
-  <li> 📱 Apasionado de la tecnología móvil </li>
+  <li> 📱 Apasionado de las aplicaciones móviles </li>
   <li> 💻 Soy Desarrollador Web Full Stack </li>
   <li> 💞️ Mi vocación por aprender, educar y ayudar a las personas se vuelca ahora en mi pasión y compromiso incansables por innovar mediante el desarrollo web </li>
 </ul>
