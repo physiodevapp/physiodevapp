@@ -73,9 +73,11 @@
     </tbody>
   </table>
 
-<!---
 <h2>⚙️ Codewars scoring</h2>
---->
+<div align="center">
+  <img width="500" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/codewars.png?raw=true">
+</div>
+
 
 <!---
 physiodevapp/physiodevapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
