@@ -63,7 +63,9 @@
             <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Dise%C3%B1o%20musict-contact%20readme.png?raw=true">
           </a>
           <p align="center" dir="auto">
-            <img style="height:40px;" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Backend%20tag.png?raw=true">
+            <a href="https://github.com/music-contact/music-contact">
+              <img style="height:40px;" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Backend%20tag.png?raw=true">
+            </a>
           </p>
           <p align="center" dir="auto">Connecting musicians looking for a music group • MERN Stack • Deployed with docker</p>
         </td>
