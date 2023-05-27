@@ -76,6 +76,15 @@
   <img width="500" src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/codewars.png?raw=true">
 </div>
 
+<h2>📟 GitHub analytics</h2>
+
+<div align="center">
+  
+[![Edu Gamboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=physiodevapp&theme=nightowl&show_icons=true)](https://github.com/physiodevapp/github-readme-stats)
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=physiodevapp&&theme=nightowl&layout=compact)](https://github.com/physiodevapp/github-readme-stats)
+  
+</div>
 
 <!---
 physiodevapp/physiodevapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
