@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Edu Gamboa 👋</h1>
+  <h1>Hi, I'm Edu Gamboa <img height=30 src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/wave-hello.gif?raw=true"></h1>
   <img src="https://github.com/physiodevapp/physiodevapp/blob/main/assets/media/Coding.png?raw=true">
 </div>
 
