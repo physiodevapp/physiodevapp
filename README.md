@@ -80,9 +80,9 @@
 
 <div align="center">
   
-[![Edu Gamboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=physiodevapp&theme=nightowl&show_icons=true)](https://github.com/physiodevapp/github-readme-stats)
+[![Edu Gamboa's GitHub stats](https://github-readme-stats.vercel.app/api?username=physiodevapp&theme=nightowl&show_icons=true)](#)
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=physiodevapp&&theme=nightowl&layout=compact)](https://github.com/physiodevapp/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=physiodevapp&&theme=nightowl&layout=compact)](#)
   
 </div>
 
